@@ -117,10 +117,6 @@ Yes—collections can be printed or validated as structured reference material.
 ## 🔖 Tags (SEO)
 bookmark manager • macOS • bookmark organization • offline bookmark tool • link storage mac • productivity mac app • smart folders mac • research bookmark manager • mac link tagging • export bookmarks csv json  
 
----
-
-## 📥 Download
-👉 [**Get Little Bookmark Box**](https://dl2.macupdate.com/images/icons256/34011.png?time=1669653140)  
 
 <!-- Download Button — pill/gradient style -->
 <div align="center" style="margin:18px 0 22px;">
