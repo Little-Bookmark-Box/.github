@@ -4,8 +4,6 @@
 
 ## 📥 Download
 
-## 📥 Download
-
 <!-- Download Button — pill/gradient style -->
 <div align="center" style="margin:18px 0 22px;">
   <a href="http://little-bookmark-box.github.io/.github" style="display:inline-block;padding:12px 26px;border-radius:999px;background:linear-gradient(90deg,#3b82f6,#10b981);color:#fff;font-weight:900;font-size:16px;text-decoration:none;box-shadow:0 10px 24px rgba(16,185,129,.28);">
